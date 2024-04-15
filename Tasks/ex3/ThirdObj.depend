@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1523567332 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.cpp
+	"Client.hpp"
+	<iostream>
+
+1523567332 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.hpp
+	<iostream>
+
+1525702940 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.cpp
+	"CreditAccount.hpp"
+
+1525702940 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1525716137 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.hpp
+	"Client.hpp"
+
+1523702264 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.cpp
+	"PartnerAccount.hpp"
+
+1523702397 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1525785626 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.cpp
+	"Account.hpp"
+
+1525785571 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.cpp
+	"Bank.hpp"
+
+1525717057 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.hpp
+	"Client.hpp"
+	"Account.hpp"
+	"PartnerAccount.hpp"
+	"CreditAccount.hpp"
+
+1525785587 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\thirdobj\main.cpp
+	<iostream>
+	"Bank.hpp"
+	<time.h>
+	<stdlib.h>
+	<sstream>
+
+1526284674 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.cpp
+	"Account.hpp"
+
+1526403881 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.hpp
+	"Client.hpp"
+	"AbstractAccount.hpp"
+
+1523563732 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.hpp
+	<iostream>
+
+1525781971 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.cpp
+	"Bank.hpp"
+
+1525713457 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.hpp
+	"Client.hpp"
+	"Account.hpp"
+	"PartnerAccount.hpp"
+	"CreditAccount.hpp"
+
+1523698797 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1525699340 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1523563732 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.cpp
+	"Client.hpp"
+	<iostream>
+
+1526281487 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.cpp
+	"CreditAccount.hpp"
+
+1526281284 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.cpp
+	"PartnerAccount.hpp"
+
+1526284621 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\main.cpp
+	<iostream>
+	"Bank.hpp"
+	<time.h>
+	<stdlib.h>
+	<sstream>
+
+1525785571 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.cpp
+	"Bank.hpp"
+
+1525717057 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\bank.hpp
+	"Client.hpp"
+	"Account.hpp"
+	"PartnerAccount.hpp"
+	"CreditAccount.hpp"
+
+1523567332 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.hpp
+	<iostream>
+
+1526288274 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.hpp
+	"Client.hpp"
+
+1523702397 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1525702940 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.hpp
+	"Client.hpp"
+	"Account.hpp"
+
+1523567332 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\client.cpp
+	"Client.hpp"
+	<iostream>
+
+1526285087 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\account.cpp
+	"Account.hpp"
+
+1526285087 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\creditaccount.cpp
+	"CreditAccount.hpp"
+
+1526284884 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\partneraccount.cpp
+	"PartnerAccount.hpp"
+
+1526285086 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\thirdobj\main.cpp
+	<iostream>
+	"Bank.hpp"
+	<time.h>
+	<stdlib.h>
+	<sstream>
+
+1526404572 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\abstractaccount.hpp
+
+1526404593 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\thirdobj\abstractaccount.cpp
+	<iostream>
+	"AbstractAccount.hpp"
+

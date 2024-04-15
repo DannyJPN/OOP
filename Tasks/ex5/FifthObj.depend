@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1525986588 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\main.cpp
+	<iostream>
+	"Polygone.hpp"
+	"Triangle.hpp"
+	"Rectangle.hpp"
+
+1525986026 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.cpp
+	"Polygone.hpp"
+
+1525986685 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.hpp
+	<math.h>
+
+1525986450 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\rectangle.cpp
+	"Rectangle.hpp"
+
+1525986450 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\rectangle.hpp
+	"Polygone.hpp"
+
+1525986026 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.cpp
+	"Triangle.hpp"
+
+1525986026 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.hpp
+	<math.h>
+	"Polygone.hpp"
+
+1526159631 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.cpp
+	"Polygone.hpp"
+
+1526157630 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.hpp
+	<math.h>
+
+1526159834 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\main.cpp
+	<iostream>
+	"Polygone.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+
+1526157630 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.hpp
+	<math.h>
+	"Polygone.hpp"
+
+1526157630 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\square.hpp
+	<math.h>
+	"Polygone.hpp"
+
+1526157458 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\square.cpp
+	"Square.hpp"
+
+1526157467 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.cpp
+	"Triangle.hpp"
+
+1526163434 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\main.cpp
+	<iostream>
+	"Polygone.hpp"
+	"Triangle.hpp"
+	"Square.hpp"
+
+1526452680 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.hpp
+	<math.h>
+	"Shape.hpp"
+
+1526452738 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\shape.hpp
+
+1526161230 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.hpp
+	<math.h>
+	"Polygone.hpp"
+
+1526161230 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\square.hpp
+	<math.h>
+	"Polygone.hpp"
+
+1526163231 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\polygone.cpp
+	"Polygone.hpp"
+
+1526161058 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\square.cpp
+	"Square.hpp"
+
+1526163466 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\triangle.cpp
+	"Triangle.hpp"
+
+1526452706 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\fifthobj\shape.cpp
+	<iostream>
+	"Shape.hpp"
+

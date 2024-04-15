@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1519030939 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\firstobj\main.cpp
+	<iostream>
+	"Person.h"
+	<string>
+
+1519030984 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\firstobj\include\person.h
+	<string>
+
+1519031006 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\firstobj\src\person.cpp
+	"Person.h"
+

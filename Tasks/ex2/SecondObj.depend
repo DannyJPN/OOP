@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1521321576 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\product.cpp
+	<iostream>
+	"Product.hpp"
+
+1520239708 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\main.cpp
+	<iostream>
+
+1520241161 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\person.cpp
+	<iostream>
+	"Person.hpp"
+
+1520942317 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\person.hpp
+	<iostream>
+
+1521405018 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.cpp
+	<iostream>
+	"Facture.hpp"
+	<stdlib.h>
+
+1521405003 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.hpp
+	"Product.hpp"
+	"Person.hpp"
+
+1521321576 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\product.hpp
+	<iostream>
+
+1521406350 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.cpp
+	"Handler.hpp"
+	<iostream>
+
+1521405003 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.hpp
+	"Facture.hpp"
+
+1520843065 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.cpp
+	<iostream>
+	"Facture.hpp"
+
+1520843065 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.hpp
+	"Product.hpp"
+	"Person.hpp"
+
+1520240706 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\product.hpp
+	<iostream>
+
+1520240706 c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\person.hpp
+	<iostream>
+
+1520239708 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\main.cpp
+	<iostream>
+
+1520241161 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\person.cpp
+	<iostream>
+	"Person.hpp"
+
+1520844361 source:c:\users\dan krupa\dropbox\vsb\pr\pr ii\tasks\secondobj\product.cpp
+	<iostream>
+	"Product.hpp"
+
+1521405018 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.cpp
+	<iostream>
+	"Facture.hpp"
+	<stdlib.h>
+
+1521405003 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.hpp
+	"Product.hpp"
+	"Person.hpp"
+
+1521321576 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\product.hpp
+	<iostream>
+
+1520942317 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\person.hpp
+	<iostream>
+
+1521913183 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.cpp
+	"Handler.hpp"
+	<iostream>
+
+1521405003 c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.hpp
+	"Facture.hpp"
+
+1520241161 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\person.cpp
+	<iostream>
+	"Person.hpp"
+
+1521321576 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\product.cpp
+	<iostream>
+	"Product.hpp"
+
+1521407132 source:c:\users\oem\dropbox\vsb\pr\pr ii\tasks\secondobj\main.cpp
+	<iostream>
+	"Handler.hpp"
+	<stdlib.h>
+	<time.h>
+
+1520241161 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\person.cpp
+	<iostream>
+	"Person.hpp"
+
+1520942317 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\person.hpp
+	<iostream>
+
+1521405018 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.cpp
+	<iostream>
+	"Facture.hpp"
+	<stdlib.h>
+
+1521405003 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\facture.hpp
+	"Product.hpp"
+	"Person.hpp"
+
+1521321576 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\product.hpp
+	<iostream>
+
+1521406350 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.cpp
+	"Handler.hpp"
+	<iostream>
+
+1521405003 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\handler.hpp
+	"Facture.hpp"
+
+1521321576 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\product.cpp
+	<iostream>
+	"Product.hpp"
+
+1521406691 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\secondobj\main.cpp
+	<iostream>
+	"Handler.hpp"
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1524571558 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\class.cpp
+	"Class.hpp"
+
+1524691558 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\main.cpp
+	<iostream>
+	"School.hpp"
+
+1524571558 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\class.cpp
+	"Class.hpp"
+
+1524691558 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\main.cpp
+	<iostream>
+	"School.hpp"
+
+1524515305 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\pupil.cpp
+	"Pupil.hpp"
+	<iostream>
+
+1524551212 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\pupil.hpp
+	<iostream>
+
+1525080689 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\class.hpp
+	<iostream>
+	"Pupil.hpp"
+	<vector>
+
+1524691630 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\school.cpp
+	"School.hpp"
+
+1524691211 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\school.hpp
+	"Pupil.hpp"
+	"Class.hpp"
+	"SpecialClass.hpp"
+	<vector>
+
+1524576685 c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\specialclass.hpp
+	"Class.hpp"
+
+1524571460 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\class.hpp
+	<iostream>
+	"Pupil.hpp"
+	<vector>
+
+1524551212 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\pupil.hpp
+	<iostream>
+
+1524515305 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\pupil.cpp
+	"Pupil.hpp"
+	<iostream>
+
+1524576604 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\school.cpp
+	"School.hpp"
+
+1524691211 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\school.hpp
+	"Pupil.hpp"
+	"Class.hpp"
+	"SpecialClass.hpp"
+	<vector>
+
+1524576685 c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\specialclass.hpp
+	"Class.hpp"
+
+1524576623 source:c:\users\stanislav\dropbox\vsb\pr\pr ii\tasks\fourthobj\specialclass.cpp
+	"SpecialClass.hpp"
+
+1524576623 source:c:\users\dan\dropbox\vsb\pr\pr ii\tasks\fourthobj\specialclass.cpp
+	"SpecialClass.hpp"
+
